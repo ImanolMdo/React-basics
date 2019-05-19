@@ -1,0 +1,25 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/*.{js,jsx} --quiet",
+    "format": "prettier --write \"src/**/*.{js,jsx}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImanolMdo/React-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImanolMdo/React-basics/issues"
+  },
+  "homepage": "https://github.com/ImanolMdo/React-basics#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "prettier": "^1.17.1"
+  }
+}
