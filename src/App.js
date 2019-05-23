@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import Results from "./Results";
-import { Router } from "@reach/router";
+import { Router, Link } from "@reach/router";
 import Details from "./Details";
 
 class App extends React.Component {
